@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     String id,nm,tlp;
 
     private static final String TAG = MainActivity.class.getSimpleName();
-    private static String url_select = "http://localhost/phpmyadmin/index.php?route=/sql&db=tiumy&table=teman&pos=0";
+    private static String url_select = "https://20200140069.praktikumtiumy.com/bacateman.php";
     private static final String TAG_ID = "id";
     private static final String TAG_NAMA = "nama";
     private static final String TAG_TELPON = "telpon";
